@@ -1,0 +1,14 @@
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.AssemblyInfoInputs.cache
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.AssemblyInfo.cs
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.csproj.CoreCompileInputs.cache
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\bin\Debug\net8.0\game_2048.exe
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\bin\Debug\net8.0\game_2048.deps.json
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\bin\Debug\net8.0\game_2048.runtimeconfig.json
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\bin\Debug\net8.0\game_2048.dll
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\bin\Debug\net8.0\game_2048.pdb
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.dll
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\refint\game_2048.dll
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.pdb
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\game_2048.genruntimeconfig.cache
+C:\Users\cp-23etb\source\repos\game_2048\game_2048\obj\Debug\net8.0\ref\game_2048.dll
